@@ -3,7 +3,6 @@ import './App.css';
 import BreakInterval from './components/BreakInterval';
 import SessionLength from './components/SessionLength';
 import Timer from './components/Timer';
-
 class App extends React.Component {
   constructor () {
     super();

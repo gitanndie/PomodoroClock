@@ -7,7 +7,6 @@ function BreakInterval (props){
         }
         props.decreaseBreak();
     }
-
 function increaseCounter () {
     if (props.breakInterval === 60) {
         return;
